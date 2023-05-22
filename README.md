@@ -11,7 +11,7 @@
 ## until librays
   [echarts](https://echarts.apache.org/zh/index.html)
  
-## web Api librays
+## web api librays
   [express](https://expressjs.com/zh-cn/)
 
 ## database
