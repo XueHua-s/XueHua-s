@@ -14,7 +14,7 @@
 ## Web librays
   [express](https://expressjs.com/zh-cn/)
 
-## database librays
+## database
   mongodb
 
 ## those unfamiliar
