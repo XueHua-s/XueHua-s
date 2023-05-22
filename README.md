@@ -2,7 +2,7 @@
   Hellow，I from in china，is a web-designer。Nice to meet you all on github。
 
 # Tech stack
-## native user interfaces librarys
+## web native user interfaces librarys
   [VUE](https://cn.vuejs.org/)、[React](https://react.dev/)、[wx-miniprogram](https://developers.weixin.qq.com/miniprogram/dev/framework/)
   
 ## user interfaces librarys
