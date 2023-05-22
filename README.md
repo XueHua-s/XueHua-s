@@ -1,2 +1,2 @@
 # About Me
-  Hellow，Nice to meet you all on github。I am a web-designer。I from in china。
+  Hellow，I from in china，is a web-designer。Nice to meet you all on github。
