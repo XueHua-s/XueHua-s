@@ -9,7 +9,7 @@
   [VUE](https://cn.vuejs.org/)、[React](https://react.dev/)、[wx-miniprogram](https://developers.weixin.qq.com/miniprogram/dev/framework/)
   
 ## user interfaces librarys
-  [Element Plus](https://element-plus.org/zh-CN/)
+  [Element Plus](https://element-plus.org/zh-CN/)、[antd](https://ant.design/index-cn)
   
 ## until librays
   [echarts](https://echarts.apache.org/zh/index.html)
