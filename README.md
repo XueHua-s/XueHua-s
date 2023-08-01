@@ -1,5 +1,9 @@
 # About Me
   Hellow，I from in china，is a web-designer。Nice to meet you all on github。
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XueHua-s&layout=compact&custom_title=What language do I use most">
+  <div style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=XueHua-s&show_icons=true&include_all_commits_disable=false&count_private=true&custom_title=I don't have anything">
+  </div>
 
 # Tech stack
 ## computer language or platform
