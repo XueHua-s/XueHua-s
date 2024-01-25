@@ -7,18 +7,17 @@
   
 ## web native user interfaces librarys
   [VUE](https://cn.vuejs.org/)、[React](https://react.dev/)、[wx-miniprogram](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-  
 ## user interfaces librarys
   [Element Plus](https://element-plus.org/zh-CN/)、[antd](https://ant.design/index-cn)
   
 ## until librays
-  [echarts](https://echarts.apache.org/zh/index.html)
+  [echarts](https://echarts.apache.org/zh/index.html)、[dayjs](https://dayjs.fenxianglu.cn/category/display.html#%E6%A0%BC%E5%BC%8F%E5%8C%96)、[lodash](https://lodash.com/)
  
 ## web api librays
-  [express](https://expressjs.com/zh-cn/), [E2EE](http://e2ee.jimstone.com.cn/)
+  [express](https://expressjs.com/zh-cn/), [E2EE](http://e2ee.jimstone.com.cn/)、[NestJS](https://nest.nodejs.cn/)
 
 ## database
-  mongodb
+  mongodb、mysql
 
 ## those unfamiliar
   [threeJs](https://threejs.org/)
