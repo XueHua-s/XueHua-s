@@ -2,6 +2,8 @@
   Hellow，I from in china，is a web-designer。Nice to meet you all on github。
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XueHua-s)](https://github.com/anuraghazra/github-readme-stats)
 # Tech stack
+## statistics
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## computer language or platform
  javascript、TypeScript、Node.js、易语言
   
