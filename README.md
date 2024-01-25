@@ -1,7 +1,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XueHua-s)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XueHua-s&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XueHua-s)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XueHua-s&show_icons=true&theme=radical)
 # About Me
   Hellow，I from in china，is a web-designer。Nice to meet you all on github。
 
