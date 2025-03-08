@@ -3,8 +3,8 @@
 Hello, I'm a passionate web designer and front-end developer from China. I enjoy creating engaging user experiences and writing clean, efficient code. I continuously explore new technologies to push the boundaries of modern web design and development.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XueHua-s)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XueHua-s)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XueHua-s)](https://github.com/XueHua-s)
 
 ## Tech Stack
 
