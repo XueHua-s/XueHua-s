@@ -1,26 +1,47 @@
 # About Me
-  Hellow，I from in china，is a web-designer。Nice to meet you all on github。
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XueHua-s)](https://github.com/anuraghazra/github-readme-stats)
-# Tech stack
-## statistics
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XueHua-s)](https://github.com/anuraghazra/github-readme-stats)
-## computer language or platform
- javascript、TypeScript、Node.js、易语言
-  
-## web native user interfaces librarys
-  [VUE](https://cn.vuejs.org/)、[React](https://react.dev/)、[wx-miniprogram](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-## user interfaces librarys
-  [Element Plus](https://element-plus.org/zh-CN/)、[antd](https://ant.design/index-cn)
-  
-## until librays
-  [echarts](https://echarts.apache.org/zh/index.html)、[dayjs](https://dayjs.fenxianglu.cn/category/display.html#%E6%A0%BC%E5%BC%8F%E5%8C%96)、[lodash](https://lodash.com/)
- 
-## web api librays
-  [express](https://expressjs.com/zh-cn/), [E2EE](http://e2ee.jimstone.com.cn/)、[NestJS](https://nest.nodejs.cn/)
 
-## database
-  mongodb、mysql
+Hello, I'm a passionate web designer and front-end developer from China. I enjoy creating engaging user experiences and writing clean, efficient code. I continuously explore new technologies to push the boundaries of modern web design and development.
 
-## those unfamiliar
-  [threeJs](https://threejs.org/)
-  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XueHua-s)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tech Stack
+
+### Programming Languages & Platforms
+- **JavaScript**
+- **TypeScript**
+- **Node.js**
+- **Rust**
+
+### Front-end Libraries & Frameworks
+- **Vue** – for reactive interfaces and rich client-side applications.
+- **React** – for building modern and dynamic web applications.
+
+### UI Component Libraries
+- **Element Plus** – a robust collection of Vue components.
+- **Ant Design** – a comprehensive design system for React.
+- **NaiveUI** – a modern and accessible UI library for Vue 3; I'm proud to be a contributor.
+
+### Utility & Data Libraries
+- **Lodash** – a modern utility library delivering modularity and performance.
+- **Day.js** – a minimalist alternative to Moment.js for date manipulation.
+
+### Backend & API Frameworks
+- **Express** – a minimalist and flexible web framework for Node.js.
+- **NestJS** – a progressive Node.js framework for building scalable server-side applications.
+- **Actix Web** – a powerful, pragmatic, and extremely fast web framework for Rust.
+- **Tokio** – an asynchronous runtime for Rust that enables scalable network applications.
+
+### Desktop & Cross-Platform Development
+- **Napi-rs** – a toolkit for building efficient Node.js native addons using Rust.
+- **Electron** – a framework for building cross-platform desktop applications with web technologies.
+- **Tauri** – a toolkit for building tiny, secure, and fast desktop apps using web technologies.
+
+### Databases
+- **MongoDB** – a NoSQL database for high-performance, scalable applications.
+- **MySQL** – a reliable relational database management system.
+
+## Personal Interests
+
+I am enthusiastic about exploring innovative technologies, refining design principles, and contributing to open source projects. Whether it's enhancing user interfaces, building robust backends, or developing cross-platform desktop applications, I am always eager to learn and collaborate.
+
+Feel free to explore my projects and reach out if you'd like to work together!
