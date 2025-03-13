@@ -47,4 +47,5 @@ Hello, I'm a passionate web designer and front-end developer from China. I enjoy
 I am enthusiastic about exploring innovative technologies, refining design principles, and contributing to open source projects. Whether it's enhancing user interfaces, building robust backends, or developing cross-platform desktop applications, I am always eager to learn and collaborate.
 
 Feel free to explore my projects and reach out if you'd like to work together!
+
 xuehualjx@gmail.com
