@@ -28,3 +28,5 @@ Feel free to explore my projects and reach out if you'd like to work together!
 <img src="./ac77469610ff7a67a0abd8c2002ed702.jpg" alt="支付宝收款码" width="200" />
 
 *扫码支持，感谢你的鼓励！*
+ #### 2.1 算法原理：我们到底在优化什么？
+Kmeans的“目标”是让每个簇内样本尽可能“集中”，数学上用**“簇内平方误差和（SSE”**衡量：
