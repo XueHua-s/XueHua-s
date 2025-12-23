@@ -1,4 +1,4 @@
-# Hi 👋 XueHua here.
+# Hi 👋 Snow here.
 
 - 🎨 A beginner on the journey, passionate about web design and front-end development
 - 💻 Striving to learn and create engaging user experiences
