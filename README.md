@@ -5,6 +5,8 @@
 - 🚀 Continuously exploring new technologies
 - 🌟 Moving forward on the path of modern web design and development
 - 💕 Open to collaboration and learning new opportunities
+  
+![skills](https://skillicons.dev/icons?i=js,ts,nodejs,rust,vue,react,express,nestjs,electron,tauri)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme.xhblog.top/api?username=XueHua-s&show_icons=true&theme=calm&include_all_commits=true&count_private=true&include_orgs=true)
