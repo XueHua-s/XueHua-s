@@ -17,9 +17,6 @@
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XueHua-s&layout=compact&langs_count=8&theme=calm" alt="Top Langs" height="185px" />
-
 ## 🌟 About Me
 
 I enjoy reading novels and writing code, that's all.
