@@ -7,13 +7,13 @@
 - 💕 Open to collaboration and learning new opportunities
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.xuehualjx.workers.dev/api?username=XueHua-s&show_icons=true&theme=calm&include_all_commits=true&count_private=true&include_orgs=true)
+![GitHub Stats](https://github-readme-stats.xuehualjx.workers.dev/api?username=XueHua-s&show_icons=true&theme=calm&include_all_commits=true&count_private=true&include_orgs=true)
 
 ## 🧠 Top Languages
-![Top Langs](https://github-readme-stats.xuehualjx.workers.dev/api/top-langs?username=XueHua-s&layout=compact&langs_count=8&theme=calm)
+![Top Languages](https://github-readme-stats.xuehualjx.workers.dev/api/top-langs?username=XueHua-s&layout=compact&langs_count=8&theme=calm)
 
 ## 📌 Featured Repositories
-![Repo](https://github-readme-stats.xuehualjx.workers.dev/api/pin?username=XueHua-s&repo=github-readme-stats&theme=calm)
+![Repo Card](https://github-readme-stats.xuehualjx.workers.dev/api/pin?username=XueHua-s&repo=github-readme-stats&theme=calm)
 
 
 
