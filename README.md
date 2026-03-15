@@ -33,10 +33,3 @@ Feel free to explore my projects and reach out if you'd like to work together!
 
 📧 xuehualjx@gmail.com
 
-## 💰 Support
-
-如果你觉得我的项目对你有帮助，欢迎请我喝杯咖啡 ☕
-
-<img src="./ac77469610ff7a67a0abd8c2002ed702.jpg" alt="支付宝收款码" width="200" />
-
-*扫码支持，感谢你的鼓励！*
