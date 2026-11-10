@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jiaxin Li (Snow).
+# Hi 👋 I'm LittleSnow.
 
 - 👨‍💻 Frontend / full-stack engineer focused on React, TypeScript, document workflows, Electron, and AI developer tools
 - 🧾 Previously a Frontend Engineer at [NoEdgeAI](https://github.com/NoEdgeAI) (Doc2X), 2024.04–2026.10
@@ -18,16 +18,16 @@
 ## 📌 Featured Repositories
 
 <p>
-  <a href="https://github.com/CherryHQ/cherry-studio"><img src="https://github-readme.xhblog.top/api/pin?username=CherryHQ&repo=cherry-studio&theme=calm" alt="Cherry Studio" width="400" /></a>
-  <a href="https://github.com/tusen-ai/naive-ui"><img src="https://github-readme.xhblog.top/api/pin?username=tusen-ai&repo=naive-ui&theme=calm" alt="Naive UI" width="400" /></a>
+  <a href="https://github.com/CherryHQ/cherry-studio"><img src="https://github-readme.xhblog.top/api/pin?username=CherryHQ&repo=cherry-studio&theme=calm&description_lines_count=3" alt="Cherry Studio" width="400" /></a>
+  <a href="https://github.com/tusen-ai/naive-ui"><img src="https://github-readme.xhblog.top/api/pin?username=tusen-ai&repo=naive-ui&theme=calm&description_lines_count=3" alt="Naive UI" width="400" /></a>
 </p>
 <p>
-  <a href="https://github.com/yukiyokotani/office-open-xml-viewer"><img src="https://github-readme.xhblog.top/api/pin?username=yukiyokotani&repo=office-open-xml-viewer&theme=calm" alt="office-open-xml-viewer" width="400" /></a>
-  <a href="https://github.com/ZJONSSON/node-unzipper"><img src="https://github-readme.xhblog.top/api/pin?username=ZJONSSON&repo=node-unzipper&theme=calm" alt="node-unzipper" width="400" /></a>
+  <a href="https://github.com/yukiyokotani/office-open-xml-viewer"><img src="https://github-readme.xhblog.top/api/pin?username=yukiyokotani&repo=office-open-xml-viewer&theme=calm&description_lines_count=3" alt="office-open-xml-viewer" width="400" /></a>
+  <a href="https://github.com/ZJONSSON/node-unzipper"><img src="https://github-readme.xhblog.top/api/pin?username=ZJONSSON&repo=node-unzipper&theme=calm&description_lines_count=3" alt="node-unzipper" width="400" /></a>
 </p>
 <p>
-  <a href="https://github.com/yusixian/moe-copy-ai"><img src="https://github-readme.xhblog.top/api/pin?username=yusixian&repo=moe-copy-ai&theme=calm" alt="moe-copy-ai" width="400" /></a>
-  <a href="https://github.com/XueHua-s/fast-md5-web"><img src="https://github-readme.xhblog.top/api/pin?username=XueHua-s&repo=fast-md5-web&theme=calm" alt="fast-md5-web" width="400" /></a>
+  <a href="https://github.com/yusixian/moe-copy-ai"><img src="https://github-readme.xhblog.top/api/pin?username=yusixian&repo=moe-copy-ai&theme=calm&description_lines_count=3" alt="moe-copy-ai" width="400" /></a>
+  <a href="https://github.com/XueHua-s/fast-md5-web"><img src="https://github-readme.xhblog.top/api/pin?username=XueHua-s&repo=fast-md5-web&theme=calm&description_lines_count=3" alt="fast-md5-web" width="400" /></a>
 </p>
 
 ## 🌟 About Me
